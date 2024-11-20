@@ -1,10 +1,10 @@
-# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
-Ex No: 01     Implementation & Analysis of D-flipflop using Cadence EDA Tools   
 
-Aim:
+## Ex No: 03   Implementation & Analysis of D-flipflop using Cadence EDA Tools   
+
+## Aim:
 To design and implement a D-flip-flop using Cadence EDA tools, simulate its behavior, and analyze key performance parameters such as timing, power consumption, and resource utilization for a comprehensive understanding of sequential logic circuits.
 
-Tools Required:
+##Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+
+![exp 3](https://github.com/user-attachments/assets/2a79b7ed-5017-42d2-8d55-c30e5ce566bb)
 
 
 
@@ -66,8 +67,10 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
 
+![exp 3](https://github.com/user-attachments/assets/b0e2587f-0839-441d-8350-b560cecc6b96
+
+![exp 3](https://github.com/user-attachments/assets/1f8e7834-b158-4dd5-9994-779de5a077e2)
 
 iv)	Creating the new test cell view
 
